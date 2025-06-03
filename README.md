@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamsonEshipillahPasili
 - 👀 I’m interested in developing web applications in Django.
-- 🌱 I’m currently learning Docker & Kubernetes
+- 🌱 I’m also super interested in deploying applications using Docker & Kubernetes.
 - 📫 How to reach me: sameshipilla94@gmail.com
 
 <!---
