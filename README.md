@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamsonEshipillahPasili
 - 👀 I’m interested in developing web applications in Django.
-- 👀 You will find me also doing systems programming in Rust.
+- 👀 You will find me also doing web and systems programming in Rust.
 - 🌱 I’m also super interested in deploying applications using Docker & Kubernetes.
 - 📫 How to reach me: sameshipilla94@gmail.com
 
