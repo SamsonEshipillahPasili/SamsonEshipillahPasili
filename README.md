@@ -1,17 +1,17 @@
-## Eshipillah Pasili Samson
+# Eshipillah Pasili Samson
 
 ### Senior Python Backend & AI Engineer
 📍 Nairobi, Kenya
 
 ---
 
-### About Me
+## About Me
 
 I’m a senior Python developer with more than 6 years of industrial experience building production-ready systems across Law, DevOps, Finance, E-Commerce, AI platforms, Education and Entreprise applications.
 
 I specialize in architecting and building strong backend systems and sensible AI integrations using Python. While the backend is my forte, I also build user-friendly web frontends when needed.
 
-### Notable Live Products
+## Notable Live Products
 
 #### Fintech
 - **Stocks & Brokerage** – Flask powered stocks and brokerage app.<br />https://app.wilvofinance.co.uk/
@@ -19,7 +19,7 @@ I specialize in architecting and building strong backend systems and sensible AI
 #### EdTech
 - **Nominates** - Django powered game app for breaking ice in social settings.<br />https://nominates.co.uk/
 
-### What I Do
+## What I Do
 
 #### Web & Application Development
 - Backend development  with Django, FastAPI & Flask.
