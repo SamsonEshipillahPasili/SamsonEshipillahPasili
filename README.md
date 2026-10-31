@@ -20,7 +20,7 @@ I specialize in architecting and building strong backend systems and sensible AI
 - **Nominates** - Django powered game app for breaking ice in social settings.<br />https://nominates.co.uk/
 
 #### CyberSecurity
-- **Threatinformant** - A Django powered threat intelligence solution.
+- **Threatinformant** - A Django powered threat intelligence solution. <br /> https://threatinformant.io/
 
 ## What I Do
 
