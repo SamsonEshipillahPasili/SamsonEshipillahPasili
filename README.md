@@ -19,6 +19,9 @@ I specialize in architecting and building strong backend systems and sensible AI
 #### EdTech
 - **Nominates** - Django powered game app for breaking ice in social settings.<br />https://nominates.co.uk/
 
+#### CyberSecurity
+- **Threatinformant** - A Django powered threat intelligence solution.
+
 ## What I Do
 
 #### Web & Application Development
