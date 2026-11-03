@@ -1,6 +1,6 @@
 # Eshipillah Pasili Samson
 
-### Senior Python Backend & AI Engineer
+### Senior Python/Golang Backend & AI Engineer
 📍 Nairobi, Kenya
 
 ---
