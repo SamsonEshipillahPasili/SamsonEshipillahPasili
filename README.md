@@ -7,7 +7,7 @@
 
 ## About Me
 
-I’m a senior Python developer with more than 6 years of industrial experience building production-ready systems across Law, DevOps, Finance, E-Commerce, AI platforms, Education and Entreprise applications.
+I’m a senior Python/Golang developer with more than 6 years of industrial experience building production-ready systems across Law, DevOps, Finance, E-Commerce, AI platforms, Education and Entreprise applications.
 
 I specialize in architecting and building strong backend systems and sensible AI integrations using Python. While the backend is my forte, I also build user-friendly web frontends when needed.
 
